@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Laboratorio2</string>
+    <string name="title">Love Music</string>
+
+    <string name="album1">La gasolina</string>
+    <string name="songs1">8 songs</string>
+
+    <string name="album2">No deja de Latir</string>
+    <string name="songs2">10 songs</string>
+
+    <string name="album3">Rock the party</string>
+    <string name="songs3">10 songs</string>
+
+    <string name="album4">Grupo five</string>
+    <string name="songs4">9 songs</string>
+
+    <string name="music1">Middle</string>
+    <string name="music2">Get Low</string>
+    <string name="music3">Let Me Love You</string>
+    <string name="music4">Propaganda</string>
+    <string name="music5">Sober</string>
+    <string name="music6">Talk</string>
+    <string name="music7">Turn Down For What</string>
+    <string name="music8">You Know You Like It</string>
+    <string name="artist">Dj Snake</string>
+</resources>
